@@ -1,2 +1,3 @@
-# hackathon-resources
-Resources for MOSA hackathon events
+# Hackathon Resources
+
+Resources for MOSA hackathon events.
