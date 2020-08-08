@@ -1,6 +1,8 @@
 # Project Title
 
-### Summary
+### Overview
+
+### Project summary
 
 Please provide a short (one paragraph) summary of your project. Consider this your elevator pitch.
 
@@ -18,7 +20,7 @@ This section walks a prospective user through the process of installing and runn
 
 ### Prerequisites
 
-What must be installed in order to run your project, and how do you install them?
+What prerequisites must be installed in order to run your project, and how do you install them?
 
 ```
 Provide code samples in this fenced code block.
@@ -80,4 +82,4 @@ If desired, add a section for your license. Reference sites like https://choosea
 
 *For example:*
 
-This package is licensed under the GNU General Public License v3.0 (<a href="https://choosealicense.com/licenses/gpl-3.0/" target="_blank">GPL-3</a>).
+>This package is licensed under the GNU General Public License v3.0 (<a href="https://choosealicense.com/licenses/gpl-3.0/" target="_blank">GPL-3</a>).
